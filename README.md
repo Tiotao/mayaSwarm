@@ -1,5 +1,5 @@
 # mayaSwarm
-Generates maya instance that moves randomly in a group. 
+Generates maya instances that move randomly in a group. 
 
 ### Example
 
